@@ -21,5 +21,5 @@ and thus $\boldsymbol{u}_2 = [1, x₂, x₃, y₁, y₂, y₃, x₂², x₂x₃,
 
 # Reference
 
-1. G. Azuma, S. Kim, and M. Yamashita. Exact Matrix Completion via High-Rank Matrices in SOS Relaxations. _arXiv:??.??_, 2023.
+1. G. Azuma, S. Kim, and M. Yamashita. Exact Matrix Completion via High-Rank Matrices in Sum-of-Squares Relaxations. _arXiv:2311.14882_, 2023.
 
